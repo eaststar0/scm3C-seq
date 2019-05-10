@@ -1,7 +1,7 @@
 import sys
 import gzip
 import os
-chro_order=['shit']
+chro_order=['']
 for i in range(1,24):
         chro_order.append('chr'+str(i))
 chro_order.append('chrX')
